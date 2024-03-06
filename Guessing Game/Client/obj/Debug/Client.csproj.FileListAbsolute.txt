@@ -1,0 +1,16 @@
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\bin\Debug\Client.exe.config
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\bin\Debug\Client.exe
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\bin\Debug\Client.pdb
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\GameWindow.baml
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\MainWindow.baml
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\GameWindow.g.cs
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\MainWindow.g.cs
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\App.g.cs
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client_MarkupCompile.cache
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.g.resources
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.Properties.Resources.resources
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.exe
+C:\SET\Third_SEM\Windows_Programming\Guessing Game\Client\obj\Debug\Client.pdb

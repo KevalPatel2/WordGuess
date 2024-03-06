@@ -1,0 +1,31 @@
+﻿<Window x:Class="Client.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Guessing Game" Height="450" Width="600">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Guess the Words!" FontSize="20" FontWeight="Heavy" Margin="0 0 0 20" HorizontalAlignment="Center"/>
+
+            <!-- Display the received puzzle -->
+            <TextBlock x:Name="txtPuzzle" FontSize="16" Foreground="RoyalBlue" TextWrapping="Wrap" Margin="0 0 0 10" />
+
+            <!-- Display the received word count -->
+            <TextBlock x:Name="txtWordsToFind" FontSize="16" Margin="0 0 0 10" />
+
+            <StackPanel>
+                <!-- Input field for the user's guess -->
+                <TextBox x:Name="txtGuess" Width="200" Margin="0 0 0 10" IsEnabled="True"/>
+
+                <!-- Buttons for submitting guess and exiting -->
+                <Button x:Name="SubmitBtn" Content="Submit Guess" Width="100" Click="SubmitGuess_Click" />
+                <Button Content="Exit" Click="Exit_Click" Width="100" Margin="10"/>
+            </StackPanel>
+            <!-- Display the result of the guess -->
+            <TextBlock x:Name="txtResult" FontSize="16" Margin="0 20 0 0" />
+            <TextBlock x:Name="txtAgain" FontSize="16" HorizontalAlignment="Center" Margin="20 20 0 0"/>
+            <TextBox x:Name="txtPlayAgain" IsEnabled="False" Width="200" Margin="0 0 0 10"/>
+            <!-- Display the remaining time -->
+            <TextBlock x:Name="txtRemainingTime" FontWeight="Light" Foreground="IndianRed" FontSize="16" Margin="0 10 0 0" />
+        </StackPanel>
+    </Grid>
+</Window>
